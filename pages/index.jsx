@@ -1,10 +1,11 @@
 import Map from '../pages/components/map'
 
 function Home() {
-    return <div>Welcome to next.js!
+    return(
+      <div>
         <Map />
-    </div>
-    
+    	</div>
+		)
   }
   
   export default Home
